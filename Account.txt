@@ -1,0 +1,15 @@
+
+Name : Steve
+Account no. : 123
+
+Rs10000 had been deposited to your account 
+Date/Time of transaction :  Sun Jul 10 15:56:03 2022
+
+
+Rs2000 had been withdrawn from your account 
+Date/Time of transaction :  Sun Jul 10 15:56:16 2022
+
+
+Rs5000 had been transferred from your account to 12
+Date/Time of transaction :  Sun Jul 10 15:56:22 2022
+
